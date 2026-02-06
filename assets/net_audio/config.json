@@ -1,0 +1,33 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "net_audio",
+    "deps": [],
+    "uuids": [
+        "8a243eb1-bacc-4a07-aac6-0ae90ffb4766",
+        "92a3f87b-6018-445b-ad5c-7fcf31e2dac3"
+    ],
+    "paths": {
+        "92a3f87b-6018-445b-ad5c-7fcf31e2dac3": [
+            "bgm/bgm_0",
+            "cc.AudioClip",
+            1
+        ],
+        "8a243eb1-bacc-4a07-aac6-0ae90ffb4766": [
+            "effect/click_0",
+            "cc.AudioClip",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

@@ -1,0 +1,109 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "net_science",
+    "deps": [
+        "net_common",
+        "net_icon",
+        "net_main",
+        "resources"
+    ],
+    "uuids": [
+        "08a7e2a4-817b-4a0e-9c6d-95e904809746@f9941",
+        "08fe1be00",
+        "12e5014e-e44a-4266-9855-5b8c0dd1e6d8@f9941",
+        "13081e73-5919-4b3f-a7e2-06bd77ee4651",
+        "1ba92dc0-5cd2-4b40-8abe-5550bb160e23@f9941",
+        "23f8ab9b-78fa-434b-9b94-a6ed24478ad0",
+        "25487d75-2a86-4003-966d-3c83de2a337d@f9941",
+        "587b0681-48e9-4861-8c7d-242ccc0d0fe9@f9941",
+        "6354bb65-76f2-4b81-8d55-16223c16c03a@f9941",
+        "6f40d821-f90a-45b4-8df3-2cd49885a371@f9941",
+        "6f85b20a-596e-4248-a0c5-0014b6b4160b",
+        "7538db5b-b81a-4bc5-bafa-9ee7e3a8e62f",
+        "7c20c472-979c-4da2-823c-c875bed15449@f9941",
+        "992dccb5-a744-4962-9647-ff0e8815f663@f9941",
+        "9bfa8eb3-dfaf-4cde-9923-d3556fe2289c@f9941",
+        "a4167c96-6639-4986-97af-0e8cae168e78@f9941",
+        "aa6ae96c-493c-4033-9385-dc34e1c9266c@f9941",
+        "b283eda9-75c4-4a95-8cc5-66273274a4fd@f9941",
+        "b7153f8b-7ab8-4160-8e25-71faf13fe3e0@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "daf66104-2493-469f-9949-5cba10e6decd",
+        "eb42e74d-ff2d-4640-96e3-1d0df37eeb2c@f9941",
+        "f6c20473-fb72-403e-ad1d-662ba226037f@f9941"
+    ],
+    "paths": {
+        "7538db5b-b81a-4bc5-bafa-9ee7e3a8e62f": [
+            "prefab/ScienceItem",
+            "cc.Prefab",
+            1
+        ],
+        "13081e73-5919-4b3f-a7e2-06bd77ee4651": [
+            "prefab/ScienceView",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "08fe1be00": [
+            "13081e73-5919-4b3f-a7e2-06bd77ee4651",
+            "7538db5b-b81a-4bc5-bafa-9ee7e3a8e62f"
+        ]
+    },
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [
+        "08a7e2a4-817b-4a0e-9c6d-95e904809746@f9941",
+        "0",
+        "12e5014e-e44a-4266-9855-5b8c0dd1e6d8@f9941",
+        "0",
+        "1ba92dc0-5cd2-4b40-8abe-5550bb160e23@f9941",
+        "0",
+        "23f8ab9b-78fa-434b-9b94-a6ed24478ad0",
+        "2",
+        "25487d75-2a86-4003-966d-3c83de2a337d@f9941",
+        "0",
+        "587b0681-48e9-4861-8c7d-242ccc0d0fe9@f9941",
+        "0",
+        "6354bb65-76f2-4b81-8d55-16223c16c03a@f9941",
+        "0",
+        "6f40d821-f90a-45b4-8df3-2cd49885a371@f9941",
+        "0",
+        "6f85b20a-596e-4248-a0c5-0014b6b4160b",
+        "2",
+        "7c20c472-979c-4da2-823c-c875bed15449@f9941",
+        "2",
+        "992dccb5-a744-4962-9647-ff0e8815f663@f9941",
+        "0",
+        "9bfa8eb3-dfaf-4cde-9923-d3556fe2289c@f9941",
+        "0",
+        "a4167c96-6639-4986-97af-0e8cae168e78@f9941",
+        "0",
+        "aa6ae96c-493c-4033-9385-dc34e1c9266c@f9941",
+        "0",
+        "b283eda9-75c4-4a95-8cc5-66273274a4fd@f9941",
+        "0",
+        "b7153f8b-7ab8-4160-8e25-71faf13fe3e0@f9941",
+        "1",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "3",
+        "daf66104-2493-469f-9949-5cba10e6decd",
+        "2",
+        "eb42e74d-ff2d-4640-96e3-1d0df37eeb2c@f9941",
+        "0",
+        "f6c20473-fb72-403e-ad1d-662ba226037f@f9941",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {
+        ".cconb": [
+            "daf66104-2493-469f-9949-5cba10e6decd"
+        ]
+    },
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

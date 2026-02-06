@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="136" tileheight="72" infinite="0" nextlayerid="7" nextobjectid="157">
+ <objectgroup id="4" name="outdoorpath" visible="0">
+  <object id="102" name="start" x="5440" y="1296">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="1"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="103" name="start" x="5576" y="1368">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="serialnumber" type="int" value="1"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="104" name="start" x="544" y="0">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="106" name="Pivot" x="3400" y="1368">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="3"/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="108" name="start" x="680" y="-72">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="109" name="start" x="5576" y="2520">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="1"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="110" name="start" x="5440" y="2592">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="serialnumber" type="int" value="1"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="112" name="Pivot" x="3264" y="1440">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="serialnumber" type="int" value="3"/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="113" name="Pivot" x="4352" y="1872">
+   <properties>
+    <property name="entrance" type="int" value="0"/>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="2"/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="114" name="Pivot" x="4352" y="2016">
+   <properties>
+    <property name="entrance" type="int" value="0"/>
+    <property name="group" type="int" value="2"/>
+    <property name="serialnumber" type="int" value="2"/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="117" name="entrance" x="3536" y="1296">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="122" name="entrance" x="3536" y="1296">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="mapping" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="5" name="diningarea">
+  <object id="119" name="entrance" x="3536" y="1296">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="1"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="120" name="Pivot" x="3944" y="1080">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="3"/>
+    <property name="transfer" value="2|3|3|3"/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="121" name="Cashier" x="3808" y="1152">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="2"/>
+    <property name="serialnumber" type="int" value="2"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="123" name="facilityentranceA" x="4080" y="1152">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="3"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="124" name="facilityentranceA" x="4352" y="1296">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="4"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="125" name="facilityentranceA" x="4624" y="1440">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="5"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="126" name="entrance" x="3536" y="1296">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="serialnumber" type="int" value="1"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="127" name="Cashier" x="3808" y="1152">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="mapping" type="int" value="2"/>
+    <property name="serialnumber" type="int" value="2"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="128" name="Pivot" x="4080" y="1008">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="serialnumber" type="int" value="3"/>
+    <property name="transfer" value="1|3|3|3"/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="129" name="facilityentranceA" x="3944" y="936">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="mapping" type="int" value="6"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="130" name="facilityentranceA" x="3808" y="864">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="mapping" type="int" value="7"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="133" name="facilityentranceA" x="3672" y="792">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="mapping" type="int" value="8"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="134" name="entrance" x="3536" y="1296">
+   <properties>
+    <property name="group" type="int" value="3"/>
+    <property name="serialnumber" type="int" value="1"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="135" name="Cashier" x="3808" y="1152">
+   <properties>
+    <property name="group" type="int" value="3"/>
+    <property name="mapping" type="int" value="2"/>
+    <property name="serialnumber" type="int" value="2"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="136" name="Pivot" x="4352" y="864">
+   <properties>
+    <property name="group" type="int" value="3"/>
+    <property name="serialnumber" type="int" value="3"/>
+    <property name="transfer" value="1|3|2|3"/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="137" name="facilityentranceA" x="4488" y="936">
+   <properties>
+    <property name="group" type="int" value="3"/>
+    <property name="mapping" type="int" value="9"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="138" name="facilityentranceA" x="4760" y="1080">
+   <properties>
+    <property name="group" type="int" value="3"/>
+    <property name="mapping" type="int" value="10"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="139" name="facilityentranceA" x="5032" y="1224">
+   <properties>
+    <property name="group" type="int" value="3"/>
+    <property name="mapping" type="int" value="11"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="140" name="facilitiesC" x="4352" y="864">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="12"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="141" name="facilitiesC" x="4352" y="864">
+   <properties>
+    <property name="group" type="int" value="2"/>
+    <property name="mapping" type="int" value="12"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="142" name="facilitiesC" x="4352" y="864">
+   <properties>
+    <property name="group" type="int" value="3"/>
+    <property name="mapping" type="int" value="12"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="kitchen" visible="0">
+  <object id="143" name="entrance" x="3944" y="360">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="1"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="144" name="Pivot" x="4080" y="432">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="2"/>
+    <property name="transfer" value=""/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="145" name="facilityentranceA" x="4216" y="504">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="13"/>
+    <property name="serialnumber" type="int" value="3"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="146" name="facilityentranceA" x="4352" y="576">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="14"/>
+    <property name="serialnumber" type="int" value="3"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="147" name="facilityentranceA" x="4488" y="648">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="15"/>
+    <property name="serialnumber" type="int" value="3"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="148" name="facilityentranceA" x="3944" y="504">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="16"/>
+    <property name="serialnumber" type="int" value="3"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="149" name="facilityentranceA" x="3808" y="576">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="17"/>
+    <property name="serialnumber" type="int" value="3"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="150" name="Pivot" x="3808" y="576">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="transfer" value=""/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="151" name="Pivot" x="4488" y="648">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="serialnumber" type="int" value="4"/>
+    <property name="transfer" value=""/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="153" name="diningout" x="4216" y="792">
+   <properties>
+    <property name="group" type="int" value="1"/>
+    <property name="mapping" type="int" value="17"/>
+    <property name="serialnumber" type="int" value="5"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="2" name="object">
+  <object id="6" x="5440" y="2592">
+   <polyline points="0,0 -4714.67,-2496 -4896,-2592"/>
+  </object>
+  <object id="8" x="5576" y="2520">
+   <polyline points="0,0 -4896,-2592"/>
+  </object>
+  <object id="17" x="4352" y="1872">
+   <polyline points="0,0 1088,-576"/>
+  </object>
+  <object id="18" x="4352" y="2016">
+   <polyline points="0,0 1224,-648"/>
+  </object>
+  <object id="20" x="3264" y="1440">
+   <polyline points="0,0 1088,-576 1768,-216"/>
+  </object>
+  <object id="22" name="facilitiesA" x="3944" y="1368">
+   <properties>
+    <property name="mapping" type="int" value="1"/>
+    <property name="type" type="int" value="7"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="28" x="3944" y="1080">
+   <polyline points="0,0 680,360"/>
+  </object>
+  <object id="35" x="4080" y="1008">
+   <polyline points="0,0 -408,-216 -544,-288"/>
+  </object>
+  <object id="42" name="pickupmeals" x="4352" y="864">
+   <properties>
+    <property name="mapping" type="int" value="1"/>
+    <property name="type" type="int" value="3"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="45" x="4080" y="432">
+   <polyline points="0,0 -272,144 136,360"/>
+  </object>
+  <object id="68" name="facilitiesA" x="4216" y="1512">
+   <properties>
+    <property name="mapping" type="int" value="2"/>
+    <property name="type" type="int" value="7"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="69" name="facilitiesA" x="4488" y="1656">
+   <properties>
+    <property name="mapping" type="int" value="3"/>
+    <property name="type" type="int" value="7"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="72" name="facilitiesA" x="4352" y="1152">
+   <properties>
+    <property name="mapping" type="int" value="4"/>
+    <property name="type" type="int" value="7"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="73" name="facilitiesA" x="4624" y="1296">
+   <properties>
+    <property name="mapping" type="int" value="5"/>
+    <property name="type" type="int" value="7"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="77" name="facilitiesA" x="4896" y="1440">
+   <properties>
+    <property name="mapping" type="int" value="6"/>
+    <property name="type" type="int" value="7"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="78" name="facilitiesB" x="3944" y="936">
+   <properties>
+    <property name="mapping" type="int" value="1"/>
+    <property name="type" type="int" value="6"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="79" name="facilitiesB" x="3808" y="864">
+   <properties>
+    <property name="mapping" type="int" value="2"/>
+    <property name="type" type="int" value="6"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="80" name="facilitiesB" x="3672" y="792">
+   <properties>
+    <property name="mapping" type="int" value="3"/>
+    <property name="type" type="int" value="6"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="84" x="4080" y="432">
+   <polyline points="0,0 408,216 136,360"/>
+  </object>
+  <object id="85" name="diningout" x="4216" y="792">
+   <properties>
+    <property name="mapping" type="int" value="1"/>
+    <property name="type" type="int" value="4"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="92" name="facilitiesD" x="4624" y="576">
+   <properties>
+    <property name="mapping" type="int" value="1"/>
+    <property name="type" type="int" value="5"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="93" name="facilitiesD" x="4488" y="504">
+   <properties>
+    <property name="mapping" type="int" value="2"/>
+    <property name="type" type="int" value="5"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="94" name="facilitiesD" x="4352" y="432">
+   <properties>
+    <property name="mapping" type="int" value="3"/>
+    <property name="type" type="int" value="5"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="95" name="facilitiesD" x="3808" y="432">
+   <properties>
+    <property name="mapping" type="int" value="4"/>
+    <property name="type" type="int" value="5"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="96" name="facilitiesD" x="3672" y="504">
+   <properties>
+    <property name="mapping" type="int" value="5"/>
+    <property name="type" type="int" value="5"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="154" name="facilitiesA" x="3536" y="1296">
+   <properties>
+    <property name="mapping" type="int" value="1"/>
+    <property name="type" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="155" name="facilitiesA" x="3808" y="1152">
+   <properties>
+    <property name="mapping" type="int" value="4"/>
+    <property name="type" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,13 @@
+daoju_paopao_hong.png
+size:184,72
+filter:Linear,Linear
+pma:true
+paopao
+bounds:133,19,51,49
+rotate:90
+paopao2
+bounds:76,15,55,55
+offsets:25,23,100,100
+paopao_2
+bounds:2,2,72,68
+offsets:1,1,74,70

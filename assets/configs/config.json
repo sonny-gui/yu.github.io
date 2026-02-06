@@ -1,0 +1,27 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "configs",
+    "deps": [],
+    "uuids": [
+        "0d61ae7f-c399-43b1-84d6-d217268f9d2b"
+    ],
+    "paths": {
+        "0d61ae7f-c399-43b1-84d6-d217268f9d2b": [
+            "table",
+            "cc.BufferAsset",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
